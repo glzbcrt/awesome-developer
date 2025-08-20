@@ -1,12 +1,12 @@
-# TypeScript
+# 🔷 TypeScript
 
-## General
+## 📋 General
 
-- [Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases)
-- [What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+- [Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases) ⚙️
+- [What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) 📖
 
-## Libraries
+## 📚 Libraries
 
-### Types
+### 🏷️ Types
 
-- [zod](https://zod.dev/)
+- [zod](https://zod.dev/) ✅
