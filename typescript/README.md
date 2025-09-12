@@ -10,3 +10,4 @@
 ### 🏷️ Types
 
 - [zod](https://zod.dev/) ✅
+- [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)
