@@ -3,9 +3,12 @@
 ## ⚙️ General Tools
 
 - [Edit](https://github.com/microsoft/edit) ✏️
+- [Playwright](https://playwright.dev)
 
 ## Visual Studio Code
 
+- [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)
+- [Visual Studio Code - Open Source](https://github.com/microsoft/vscode)
 - [REST Client for VSCode](https://github.com/Huachao/vscode-restclient)
 
 ### Extensions
