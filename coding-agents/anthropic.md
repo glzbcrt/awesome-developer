@@ -8,3 +8,8 @@
 - [Slash Commands](https://docs.claude.com/en/docs/claude-code/slash-commands)
 - [Plugins](https://docs.claude.com/en/docs/claude-code/plugins)
 - [Plugin marketplaces](https://docs.claude.com/en/docs/claude-code/plugin-marketplaces)
+
+## Videos
+
+- [Building and prototyping with Claude Code](https://www.youtube.com/watch?v=DAQJvGjlgVM)
+- [Designing Claude Code](https://www.youtube.com/watch?v=vLIDHi-1PVU)

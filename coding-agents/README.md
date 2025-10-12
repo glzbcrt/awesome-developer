@@ -3,6 +3,7 @@
 ## General
 
 - [AGENTS.md](https://agents.md/)
+- [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 
 ## Spec Driven Development
 
