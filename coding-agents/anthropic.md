@@ -13,3 +13,4 @@
 
 - [Building and prototyping with Claude Code](https://www.youtube.com/watch?v=DAQJvGjlgVM)
 - [Designing Claude Code](https://www.youtube.com/watch?v=vLIDHi-1PVU)
+- [Enabling Claude Code to work more autonomously](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously)

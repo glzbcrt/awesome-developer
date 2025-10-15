@@ -15,6 +15,7 @@
 - [OTLP Specification 1.8.0](https://opentelemetry.io/docs/specs/otlp/)
 - [OpenTelemetry Protocol (OTLP): A Deep Dive into Observability](https://last9.io/blog/opentelemetry-protocol-otlp/)
 - [OpenTelemetry Protocol (OTLP) Specification](https://github.com/open-telemetry/opentelemetry-proto)
+- [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
 
 ### Wireshark
 
