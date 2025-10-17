@@ -1,4 +1,8 @@
-# Awesome Developer!
+# Awesome Developer
+
+## Blogs
+
+- [Simon Willison’s Weblog](https://simonwillison.net/)
 
 ## Videos
 
