@@ -1,5 +1,9 @@
 # PostgreSQL
 
+## Companies
+
+- [Xata](https://xata.io/)
+
 ## Docker
 
 - [postgres Docker official image](https://hub.docker.com/_/postgres)
@@ -15,7 +19,13 @@
 
 - [10x-development with PostgreSQL and Visual Studio Code](https://www.youtube.com/watch?v=O6J0WarzkMA)
 
-## PgCat
+## Extensions and Tools
+
+### PgCat
 
 - [PgCat: Nextgen PostgreSQL Pooler](https://github.com/postgresml/pgcat)
 - [Adopting PgCat: A Nextgen Postgres Proxy](https://tech.instacart.com/adopting-pgcat-a-nextgen-postgres-proxy-3cf284e68c2f)
+
+### pgvector
+
+- [pgvector](https://github.com/pgvector/pgvector)

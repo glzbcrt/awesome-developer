@@ -2,6 +2,10 @@
 
 ## Libraries
 
+### GUI
+
+- [PyAutoGUI](https://github.com/asweigart/pyautogui)
+
 ### CLI
 
 - [Rich is a Python library for rich text and beautiful formatting in the terminal](https://github.com/Textualize/rich)
