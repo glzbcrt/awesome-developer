@@ -21,6 +21,8 @@
 
 ## Extensions and Tools
 
+- [PostgREST - REST API for any Postgres database](https://github.com/PostgREST/postgrest)
+
 ### PgCat
 
 - [PgCat: Nextgen PostgreSQL Pooler](https://github.com/postgresml/pgcat)

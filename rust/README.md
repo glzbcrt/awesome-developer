@@ -1,9 +1,15 @@
 # Rust
 
+## Articles
+
+- [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
+- [Rewriting the heart of our sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)
+
 ## Videos
 
 - [Microsoft is Getting Rusty: A Review of Successes and Challenges - Mark Russinovich](https://www.youtube.com/watch?v=1VgptLwP588)
 - [rust is causing a lot of problems...](https://www.youtube.com/watch?v=Jgq551IhquA)
+- [Why Everyone's Switching to Rust (And Why You Shouldn't)](https://www.youtube.com/watch?v=meEXag1XCFw)
 
 ## Libraries
 

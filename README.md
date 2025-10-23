@@ -4,6 +4,11 @@
 
 - [Simon Willison’s Weblog](https://simonwillison.net/)
 
+## Tech Blogs
+
+- [Dropbox.Tech](https://dropbox.tech/)
+- [Discord Blog](https://discord.com/blog)
+
 ## Videos
 
 - [Two decades of Git: A conversation with creator Linus Torvalds](https://www.youtube.com/watch?v=sCr_gb8rdEI)
