@@ -4,6 +4,7 @@
 
 - [Edit](https://github.com/microsoft/edit) ✏️
 - [Playwright](https://playwright.dev)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 ## Visual Studio Code
 

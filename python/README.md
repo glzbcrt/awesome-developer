@@ -2,6 +2,10 @@
 
 ## Libraries
 
+## Messaging
+
+- [RQ: Simple job queues for Python](https://python-rq.org/)
+
 ### GUI
 
 - [PyAutoGUI](https://github.com/asweigart/pyautogui)

@@ -4,6 +4,7 @@
 
 - [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
 - [Rewriting the heart of our sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)
+- [Why we built a custom Rust library for Capture](https://dropbox.tech/application/why-we-built-a-custom-rust-library-for-capture)
 
 ## Videos
 

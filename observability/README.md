@@ -10,6 +10,12 @@
 - [Message Templates](https://messagetemplates.org/)
 - [How to use structured logging](https://github.com/NLog/NLog/wiki/How-to-use-structured-logging)
 
+## Metrics
+
+- [A Deep Dive Into the Four Types of Prometheus Metrics](https://www.tigerdata.com/blog/four-types-prometheus-metrics-to-collect)
+- [A Deep Dive Into OpenTelemetry Metrics](https://www.tigerdata.com/blog/a-deep-dive-into-open-telemetry-metrics)
+- [Prometheus vs. OpenTelemetry Metrics: A Complete Guide](https://www.tigerdata.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide)
+
 ## OpenTelemetry
 
 - [OTLP Specification 1.8.0](https://opentelemetry.io/docs/specs/otlp/)

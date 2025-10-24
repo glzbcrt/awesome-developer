@@ -1,0 +1,68 @@
+receivers:
+  windowseventlog:
+    channel: Application
+
+  filelog:
+    include:
+      - c:\temp\file.txt
+    start_at: end
+    include_file_path: true
+    include_file_name: true
+    operators:
+      - type: move
+        from: attributes["log.file.name"]
+        to: resource["log.file.name"]
+      - type: move
+        from: attributes["log.file.path"]
+        to: resource["log.file.path"]
+
+  otlp:
+    protocols:
+      grpc:
+      http:
+
+  hostmetrics:
+    collection_interval: 60s
+    scrapers:
+      cpu:
+      memory:
+      disk:
+      filesystem:
+      network:
+      load:
+
+exporters:
+  debug:
+    verbosity: detailed
+    sampling_initial: 5
+    sampling_thereafter: 200
+  clickhouse:
+    endpoint: tcp://127.0.0.1:19000?dial_timeout=10s
+    database: otel
+    username: default
+    password: changeme
+    timeout: 10s
+    sending_queue:
+      queue_size: 1
+      enabled: true
+    retry_on_failure:
+      enabled: true
+      initial_interval: 5s
+      max_interval: 30s
+      max_elapsed_time: 300s
+  otlp:
+    endpoint: "localhost:4320"
+    tls:
+      insecure: true
+
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      exporters: [clickhouse, otlp]
+    metrics:
+      receivers: [otlp, hostmetrics]
+      exporters: [clickhouse, debug, otlp]
+    logs:
+      receivers: [windowseventlog, filelog]
+      exporters: [clickhouse]
