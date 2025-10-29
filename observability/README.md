@@ -1,5 +1,10 @@
 # Observability
 
+## Platforms and Tools
+
+- [Sentry](https://sentry.io)
+- [Vector by Datadog](https://vector.dev/)
+
 ## Aspire
 
 - [Aspire dashboard overview](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/overview?tabs=bash)
@@ -26,6 +31,16 @@
 - [OpenTelemetry Demo](https://opentelemetry.io/docs/demo/architecture/)
 - [OpenTelemetry Demo GitHub repo](https://github.com/open-telemetry/opentelemetry-demo)
 
+- [Distributions](https://opentelemetry.io/docs/concepts/distributions/)
+- [Building your own OpenTelemetry Collector distribution](https://medium.com/opentelemetry/building-your-own-opentelemetry-collector-distribution-42337e994b63)
+
+- [HTTP semantic conventions declared stable](https://opentelemetry.io/blog/2023/http-conventions-declared-stable/)
+
+### Azure
+
+- [Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/#open-and-extensible-design)
+- [Making Azure the Best Place to Observe Your Apps with OpenTelemetry](https://techcommunity.microsoft.com/blog/azureobservabilityblog/making-azure-the-best-place-to-observe-your-apps-with-opentelemetry/3995896)
+
 ### Collector
 
 - [OpenTelemetry Collector GitHub repo](https://github.com/open-telemetry/opentelemetry-collector)
@@ -41,6 +56,10 @@
 
 - [Host Metrics Receiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/receiver/hostmetricsreceiver)
 - [OpenTelemetry Host Metrics receiver](https://uptrace.dev/opentelemetry/collector/host-metrics)
+
+- [So You Built A Custom Collector with the OpenTelemetry Collector Builder…Now What?](https://medium.com/womenintechnology/so-you-built-a-custom-collector-with-the-opentelemetry-collector-builder-now-what-6588952ee6c5)
+- [Building a custom collector](https://opentelemetry.io/docs/collector/custom-collector/)
+- [OpenTelemetry Collector Builder (ocb)](https://github.com/open-telemetry/opentelemetry-collector/tree/main/cmd/builder)
 
 ### SDKs
 

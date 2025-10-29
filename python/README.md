@@ -2,7 +2,15 @@
 
 ## Libraries
 
-## Messaging
+### HTTP
+
+- [AIOHTTP](https://docs.aiohttp.org/en/stable/)
+
+### Networking
+
+- [Simple DNS resolver for asyncio](https://github.com/aio-libs/aiodns)
+
+### Messaging
 
 - [RQ: Simple job queues for Python](https://python-rq.org/)
 

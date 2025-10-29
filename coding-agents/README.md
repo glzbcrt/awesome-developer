@@ -9,6 +9,8 @@
 
 - [Specification-Driven Development (SDD)](https://github.com/github/spec-kit/blob/main/spec-driven.md)
 - [Spec Kit](https://github.com/github/spec-kit)
+- [Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/)
+- [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 
 ### Videos
 
