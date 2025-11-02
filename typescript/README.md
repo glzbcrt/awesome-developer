@@ -7,6 +7,7 @@
 
 ## 🔧 Tools
 
+- 😍 [Bun - A fast all-in-one JavaScript runtime](https://bun.com/)
 - [pnpm](https://pnpm.io/)
 
 ## 📚 Libraries

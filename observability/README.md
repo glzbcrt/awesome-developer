@@ -36,6 +36,10 @@
 
 - [HTTP semantic conventions declared stable](https://opentelemetry.io/blog/2023/http-conventions-declared-stable/)
 
+### Datadog
+
+- [Ingest OTLP metrics directly into Datadog with the new OTLP Metrics API](https://www.datadoghq.com/blog/otlp-metrics-api/)
+
 ### Azure
 
 - [Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/#open-and-extensible-design)
