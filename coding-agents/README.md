@@ -21,3 +21,4 @@
 
 - [The New Code — Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
 - [Claude Code vs Codex CLI: Daily Use Showdown](https://www.youtube.com/watch?v=KZwcKQe34n8)
+- [You've Been Using AI the Hard Way (Use This Instead)](https://www.youtube.com/watch?v=MsQACpcuTkU)

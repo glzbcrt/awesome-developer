@@ -1,5 +1,7 @@
 # Rust
 
+ - [Crates](https://crates.io/)
+
 ## Articles
 
 - [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
@@ -16,3 +18,8 @@
 ## Libraries
 
 - [Tokio is an asynchronous runtime for the Rust programming language.](https://tokio.rs/)
+- [rand](https://crates.io/crates/rand)
+
+## Docs
+
+- [Module prelude](https://doc.rust-lang.org/std/prelude/index.html)
