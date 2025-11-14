@@ -5,6 +5,7 @@
 - [Edit](https://github.com/microsoft/edit) ✏️
 - [Playwright](https://playwright.dev)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [crawlee - Build reliable web scrapers. Fast.](https://crawlee.dev/)
 
 ## Visual Studio Code
 
@@ -22,3 +23,7 @@
 
 - [Creating a Visual Studio Code Extension](https://www.youtube.com/watch?v=cHQo26fdx_o)
 - [Language Model Tool API](https://code.visualstudio.com/api/extension-guides/ai/tools)
+
+### Network
+
+- [mitmproxy is a free and open source interactive HTTPS proxy](https://www.mitmproxy.org/)

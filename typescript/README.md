@@ -4,6 +4,8 @@
 
 - [Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases) ⚙️
 - [What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) 📖
+- [Anders Hejlsberg (creator of TypeScript) reacts to the 2025 Octoverse report](https://www.youtube.com/watch?v=GMWJceUTxuk)
+
 
 ## 🔧 Tools
 

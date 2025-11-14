@@ -1,8 +1,16 @@
 # PostgreSQL
 
+## Libraries
+
+- [asyncpg - A fast PostgreSQL Database Client Library for Python/asyncio.](https://github.com/MagicStack/asyncpg)
+
 ## Companies
 
 - [Xata](https://xata.io/)
+
+## Graph
+
+- [Apache AGE - Graph Database for PostgreSQL](https://age.apache.org/)
 
 ## Docker
 
