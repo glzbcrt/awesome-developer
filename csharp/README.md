@@ -1,5 +1,7 @@
 # C#
 
+- [Announcing .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
+
 ## Libraries
 
 - [StreamJsonRpc](https://microsoft.github.io/vs-streamjsonrpc/index.html)
