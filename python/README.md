@@ -1,5 +1,9 @@
 # Python
 
+## Articles
+
+- [Rust vs. Python: Finding the right balance between speed and simplicity](https://blog.jetbrains.com/rust/2025/11/10/rust-vs-python-finding-the-right-balance-between-speed-and-simplicity/)
+
 ## GIL
 
 - [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/)
@@ -12,6 +16,12 @@
 - [pyenv - Simple Python version management](https://github.com/pyenv/pyenv)
 
 ## Libraries
+
+## Async
+
+- [asyncio — Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
+- [Trio – a friendly Python library for async concurrency and I/O](https://github.com/python-trio/trio)
+- [AnyIO](https://anyio.readthedocs.io)
 
 ### HTTP
 

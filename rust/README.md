@@ -12,6 +12,8 @@
 
 - [Rust vs. Zig: The New Programming Language Battle for Performance](https://dev.to/mukhilpadmanabhan/rust-vs-zig-the-new-programming-language-battle-for-performance-1p6)
 
+- [Rust vs. Python: Finding the right balance between speed and simplicity](https://blog.jetbrains.com/rust/2025/11/10/rust-vs-python-finding-the-right-balance-between-speed-and-simplicity/)
+
 ## Videos
 
 - [Microsoft is Getting Rusty: A Review of Successes and Challenges - Mark Russinovich](https://www.youtube.com/watch?v=1VgptLwP588)
