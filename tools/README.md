@@ -1,5 +1,9 @@
 # 🔧 Tools
 
+## Graphics
+
+- [GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
+
 ## ⚙️ General Tools
 
 - [Edit](https://github.com/microsoft/edit) ✏️
