@@ -1,5 +1,10 @@
 # Observability
 
+## Standards
+
+- [Propagation format for distributed context: Baggage](https://w3c.github.io/baggage/)
+- [Trace Context](https://www.w3.org/TR/trace-context/)
+
 ## Platforms and Tools
 
 - [Sentry](https://sentry.io)
@@ -35,6 +40,8 @@
 - [Building your own OpenTelemetry Collector distribution](https://medium.com/opentelemetry/building-your-own-opentelemetry-collector-distribution-42337e994b63)
 
 - [HTTP semantic conventions declared stable](https://opentelemetry.io/blog/2023/http-conventions-declared-stable/)
+
+- [Context propagation](https://opentelemetry.io/docs/concepts/context-propagation/)
 
 ### Datadog
 
