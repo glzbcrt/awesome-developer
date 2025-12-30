@@ -1,5 +1,9 @@
 # 🔧 Tools
 
+## Docs
+
+- [Vale CLI - Your style, our editor](https://vale.sh/)
+
 ## Graphics
 
 - [GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
