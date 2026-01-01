@@ -1,0 +1,5 @@
+# Computer Architecture
+
+## Articles
+
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
