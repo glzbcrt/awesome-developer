@@ -1,11 +1,27 @@
 # Python
 
+## Versions
+
+- [What’s new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
+
+## Features
+
+### Asyncio
+
+- [uvloop](https://uvloop.readthedocs.io/)
+- [Asyncio introspection capabilities](https://docs.python.org/3/whatsnew/3.14.html#asyncio-introspection-capabilities)
+
+### Concurrent Interpreters
+
+- [concurrent.interpreters — Multiple interpreters in the same process](https://docs.python.org/3/library/concurrent.interpreters.html)
+
 ## Articles
 
 - [Rust vs. Python: Finding the right balance between speed and simplicity](https://blog.jetbrains.com/rust/2025/11/10/rust-vs-python-finding-the-right-balance-between-speed-and-simplicity/)
 
 ## GIL
 
+- [The Mechanics of Python’s Global Interpreter Lock (GIL)](https://medium.com/@AlexanderObregon/the-mechanics-of-pythons-global-interpreter-lock-gil-b04ba144d616)
 - [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/)
 - [Trying out free-threaded Python on macOS](https://til.simonwillison.net/python/trying-free-threaded-python)
 - [Python Free-Threading Guide](https://py-free-threading.github.io/)

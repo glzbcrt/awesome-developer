@@ -1,5 +1,9 @@
 # PostgreSQL
 
+## Articles
+
+- [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
+
 ## Libraries
 
 - [asyncpg - A fast PostgreSQL Database Client Library for Python/asyncio.](https://github.com/MagicStack/asyncpg)
