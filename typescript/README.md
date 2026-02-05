@@ -12,6 +12,8 @@
 - 😍 [Bun - A fast all-in-one JavaScript runtime](https://bun.com/)
 - [pnpm](https://pnpm.io/)
 
+- [Building Single Executable Applications with Node.js](https://dev.to/this-is-learning/building-single-executable-applications-with-nodejs-16k3)
+
 ## 📚 Libraries
 
 ### 💻 Console
