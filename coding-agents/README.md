@@ -5,6 +5,8 @@
 - [AGENTS.md](https://agents.md/)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 
+- [Agent Client Protocol](https://agentclientprotocol.com/)
+
 ## Spec Driven Development
 
 - [Specification-Driven Development (SDD)](https://github.com/github/spec-kit/blob/main/spec-driven.md)
