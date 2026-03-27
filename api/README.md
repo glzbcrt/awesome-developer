@@ -1,8 +1,15 @@
 # API
 
-# Articles
+## Articles
 
 - [What makes a good API key?](https://glama.ai/blog/2024-10-18-what-makes-a-good-api-key)
+
+## Webhooks
+
+- [The Standard Webhooks specification](https://github.com/standard-webhooks/standard-webhooks)
+
+- [OpenAI Webhooks](https://developers.openai.com/api/docs/guides/webhooks)
+- [Background mode as a webhook event trigger](https://developers.openai.com/api/docs/guides/background)
 
 ## Products
 
