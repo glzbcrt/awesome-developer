@@ -9,6 +9,8 @@
 - [Plugins](https://docs.claude.com/en/docs/claude-code/plugins)
 - [Plugin marketplaces](https://docs.claude.com/en/docs/claude-code/plugin-marketplaces)
 
+- [Claude Code's Entire Source Code Got Leaked via a Sourcemap in npm, Let's Talk About it](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it)
+
 ## Videos
 
 - [Building and prototyping with Claude Code](https://www.youtube.com/watch?v=DAQJvGjlgVM)
