@@ -7,6 +7,9 @@
 
 - [Agent Client Protocol](https://agentclientprotocol.com/)
 
+- [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
+- [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)
+
 ## Spec Driven Development
 
 - [Specification-Driven Development (SDD)](https://github.com/github/spec-kit/blob/main/spec-driven.md)
