@@ -11,6 +11,8 @@
 
 - [Claude Code's Entire Source Code Got Leaked via a Sourcemap in npm, Let's Talk About it](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it)
 
+- [5 Tips to Get More Out of Your Claude Code with MLflow](https://mlflow.org/blog/mlflow-claude-code)
+
 ## Videos
 
 - [Building and prototyping with Claude Code](https://www.youtube.com/watch?v=DAQJvGjlgVM)

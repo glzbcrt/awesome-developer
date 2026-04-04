@@ -10,6 +10,14 @@
 - [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 - [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)
 
+- [The Death of Software Development](https://mike.tech/blog/death-of-software-development)
+
+## Ralph Wiggum Loop
+
+- [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/)
+- [Ralph Wiggum Loop](https://github.com/anthropics/claude-code/tree/main/plugins/ralph-wiggum)
+- [Ralph Orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)
+
 ## Spec Driven Development
 
 - [Specification-Driven Development (SDD)](https://github.com/github/spec-kit/blob/main/spec-driven.md)
