@@ -12,6 +12,8 @@
 
 - [The Death of Software Development](https://mike.tech/blog/death-of-software-development)
 
+- [I tried every AI dev tool so you don't have to](https://www.youtube.com/watch?v=1WFgIjAvMDw)
+
 ## Ralph Wiggum Loop
 
 - [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/)
@@ -39,3 +41,4 @@
 ## Tools
 
 - [Serena - A powerful coding agent toolkit providing semantic retrieval and editing capabilities](https://github.com/oraios/serena)
+- [T3 Code is the best way to code with AI](https://t3.codes/)

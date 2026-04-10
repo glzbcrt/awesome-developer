@@ -1,5 +1,7 @@
 # 🔧 Tools
 
+- [Upstash - Serverless Data Platform](https://upstash.com/)
+
 ## Docs
 
 - [Vale CLI - Your style, our editor](https://vale.sh/)

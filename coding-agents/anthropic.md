@@ -13,6 +13,8 @@
 
 - [5 Tips to Get More Out of Your Claude Code with MLflow](https://mlflow.org/blog/mlflow-claude-code)
 
+- [Inside Claude Code](https://newsletter.victordibia.com/p/inside-claude-code)
+
 ## Videos
 
 - [Building and prototyping with Claude Code](https://www.youtube.com/watch?v=DAQJvGjlgVM)
