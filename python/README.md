@@ -4,6 +4,11 @@
 
 - [What’s new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
 
+## Python and Rust
+
+- [PyO3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
+- [Maturin - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages](https://github.com/pyo3/maturin)
+
 ## Features
 
 ### Asyncio
