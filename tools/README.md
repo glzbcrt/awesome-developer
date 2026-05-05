@@ -12,6 +12,7 @@
 
 ## ⚙️ General Tools
 
+- [just - Just a command runner](https://github.com/casey/just)
 - [Edit](https://github.com/microsoft/edit) ✏️
 - [Playwright](https://playwright.dev)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
