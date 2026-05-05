@@ -1,5 +1,11 @@
 # Python
 
+## Development Environment
+
+- [uv](https://docs.astral.sh/uv/)
+- [Poe the poet](https://poethepoet.natn.io/index.html)
+- [Ruff](https://docs.astral.sh/ruff/)
+
 ## Versions
 
 - [What’s new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
