@@ -1,6 +1,6 @@
 # WebAssembly
 
-- [A WebAssembly Deep Dive 🔎 - How Wasm works under the hood](https://www.youtube.com/watch?v=VGLnqkegX-g)
+- ❤️ [A WebAssembly Deep Dive 🔎 - How Wasm works under the hood](https://www.youtube.com/watch?v=VGLnqkegX-g)
 
 - [Wasmtime](https://wasmtime.dev/)
 - [Running Wasmtime in Hardware-Isolated Microenvironments - Danilo (Dan) Chiarlone, Microsoft](https://www.youtube.com/watch?v=jwta07eFEJE)
