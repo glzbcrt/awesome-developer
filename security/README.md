@@ -13,3 +13,12 @@
 ## Malware
 
 - [REMnux: A Linux Toolkit for Malware Analysis](https://remnux.org/)
+
+## IDA Pro
+
+- [IDA Pro MCP Server](https://github.com/mrexodia/ida-pro-mcp)
+
+## Ghidra
+
+- [ghidraMCP: Now AI Can Reverse Malware](https://www.youtube.com/watch?v=u2vQapLAW88)
+- [MCP Server for Ghidra](https://github.com/LaurieWired/GhidraMCP/)

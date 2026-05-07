@@ -1,5 +1,7 @@
 # WebAssembly
 
+- [A WebAssembly Deep Dive 🔎 - How Wasm works under the hood](https://www.youtube.com/watch?v=VGLnqkegX-g)
+
 - [Wasmtime](https://wasmtime.dev/)
 - [Running Wasmtime in Hardware-Isolated Microenvironments - Danilo (Dan) Chiarlone, Microsoft](https://www.youtube.com/watch?v=jwta07eFEJE)
 
@@ -11,3 +13,5 @@
 - [WebAssembly - Concepts](https://webassembly.github.io/spec/core/intro/overview.html)
 
 - [The WebAssembly Component Model](https://component-model.bytecodealliance.org/introduction.html)
+
+- [Virtual Machines, Containers, and WebAssembly Face-off](https://www.youtube.com/watch?v=IwjGnxS-GaQ)
