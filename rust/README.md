@@ -28,6 +28,9 @@
 - [reqwest](https://github.com/seanmonstar/reqwest)
 - [Tokio](https://tokio.rs/)
 
+- [nix Crate](https://docs.rs/nix/latest/nix/)
+- [Module ioctl](https://docs.rs/nix/latest/nix/sys/ioctl/#defining-ioctls)
+
 ## Docs
 
 - [Module prelude](https://doc.rust-lang.org/std/prelude/index.html)
