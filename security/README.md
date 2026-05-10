@@ -22,3 +22,7 @@
 
 - [ghidraMCP: Now AI Can Reverse Malware](https://www.youtube.com/watch?v=u2vQapLAW88)
 - [MCP Server for Ghidra](https://github.com/LaurieWired/GhidraMCP/)
+
+## Libraries
+
+- [SymCrypt - Core cryptographic library for Windows, Azure Linux and other products](https://github.com/microsoft/SymCrypt)
