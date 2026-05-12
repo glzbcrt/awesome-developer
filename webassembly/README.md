@@ -2,6 +2,9 @@
 
 - ❤️ [A WebAssembly Deep Dive 🔎 - How Wasm works under the hood](https://www.youtube.com/watch?v=VGLnqkegX-g)
 
+- [Writing A Wasm Runtime In Rust](https://skanehira.github.io/writing-a-wasm-runtime-in-rust/01_intro.html)
+- [A small Wasm Runtime](https://github.com/skanehira/chibiwasm)
+
 - [Wasmtime](https://wasmtime.dev/)
 - [Running Wasmtime in Hardware-Isolated Microenvironments - Danilo (Dan) Chiarlone, Microsoft](https://www.youtube.com/watch?v=jwta07eFEJE)
 
