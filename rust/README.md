@@ -4,6 +4,12 @@
 - [Docs.rs](https://docs.rs/)
 - [Crates](https://crates.io/)
 
+## Online Books
+
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
+- [The Cargo Book](https://doc.rust-lang.org/cargo/)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+
 ## Articles
 
 - [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
