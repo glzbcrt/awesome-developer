@@ -12,6 +12,7 @@
 
 ## ⚙️ General Tools
 
+- [mise - dev tools, env vars, task runner](https://mise.jdx.dev/)
 - [just - Just a command runner](https://github.com/casey/just)
 - [Edit](https://github.com/microsoft/edit) ✏️
 - [Playwright](https://playwright.dev)

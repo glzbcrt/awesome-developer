@@ -17,6 +17,8 @@
 
 ## Tools
 
+- [Apache APISIX - API Gateway & AI Gateway for APIs and AI Agents](https://apisix.apache.org/)
+
 ### Hoppscotch - Open-Source Alternative to Postman, Insomnia
 
 - [Hoppscotch - Docs](https://docs.hoppscotch.io/)
