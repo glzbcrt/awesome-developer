@@ -2,6 +2,8 @@
 
 ## General
 
+- [Agent Trace - A standard format for tracing AI-generated code.](https://github.com/cursor/agent-trace)
+
 - [AGENTS.md](https://agents.md/)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 

@@ -44,6 +44,8 @@
 
 ## Libraries
 
+- [Typer, build great CLIs. Easy to code. Based on Python type hints](https://github.com/fastapi/typer)
+
 ## Async
 
 - [asyncio — Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)

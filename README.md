@@ -18,6 +18,9 @@
 
 ## Tools
 
+- [Typst - The new foundation for documents](https://typst.app/)
+- [just - Just a command runner](https://github.com/casey/just)
+
 ### Execution
 
 - [Railway](https://railway.com/)
